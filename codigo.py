@@ -15,11 +15,12 @@ def division(a, b):
 
 while True:
     print("\n*** Calculadora ***")
-    print("1. Suma")
+    # print("1. Suma")
     print("2. Resta")
-    print("3. Multiplicación")
     print("4. División")
     print("5. Salir")
+    print("6. esta es una linea de prueba para la opcion salir")
+    print("7. otra prueba")
 
     opcion = input("Seleccione una opción (1/2/3/4/5): ")
 
