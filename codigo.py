@@ -16,6 +16,7 @@ def division(a, b):
 while True:
     print("\n*** Calculadora ***")
     # print("1. Suma")
+    print("otras opciones")
     print("2. Resta")
     print("4. División")
     print("5. Salir")
